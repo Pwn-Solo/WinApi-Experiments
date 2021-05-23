@@ -1,3 +1,3 @@
 # WinApi-Experiments
 
-### Playing around with stuff in WinApi
+### Some Completely 'Ethical' scripts I wrote while exploring WinApi
